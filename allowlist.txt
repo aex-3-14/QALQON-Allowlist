@@ -5,6 +5,7 @@ egov.uz
 president.uz
 lex.uz
 hemis.uz
+my.uzbmb.uz
 parliament.gov.uz
 senat.gov.uz
 cbu.uz
