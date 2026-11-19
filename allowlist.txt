@@ -10,6 +10,7 @@ parliament.gov.uz
 senat.gov.uz
 cbu.uz
 stat.uz
+fast.com
 soliq.uz
 my.soliq.uz
 adliya.uz
