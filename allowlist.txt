@@ -617,3 +617,4 @@ deepseek.com
 tradingview.com
 xe.com
 merriam-webster.com
+mail.ru
