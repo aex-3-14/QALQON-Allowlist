@@ -177,13 +177,13 @@ pinterest.com
 pinimg.com
 snapchat.com
 linkedin.com
-licdn.com
 signal.org
 signal.me
 slack.com
 zoom.us
 zoom.com
 webex.com
+lineageos.org
 microsoft.com
 microsoft365.com
 microsoftonline.com
@@ -269,6 +269,7 @@ chatgpt.com
 api.openai.com
 claude.ai
 anthropic.com
+chat.qwen.ai
 perplexity.ai
 canva.com
 figma.com
@@ -620,3 +621,4 @@ xe.com
 merriam-webster.com
 mail.ru
 uzmovi.net
+evolution-x.org
