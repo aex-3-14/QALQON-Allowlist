@@ -7,6 +7,7 @@ lex.uz
 hemis.uz
 my.uzbmb.uz
 parliament.gov.uz
+www.desmos.com
 senat.gov.uz
 cbu.uz
 stat.uz
