@@ -1,12 +1,12 @@
 # QALQON-Allowlist — ready for your GitHub repository
 
-**Repository:** `pi314159userinf-dev/QALQON-Allowlist` (branch `main`).
+**Repository:** `aex-3-14/QALQON-Allowlist` (branch `main`).
 
 **Upload from this package to the GitHub repository root:** `allowlist.txt`, `scripts/`, `.github/`. You may optionally replace the existing `README.md` with this file. **Do not upload the `android/` directory to the allowlist repository**; it contains an example to integrate locally into your Android project instead.
 
 **Important:** Your current GitHub repository has an `AGPL-3.0` LICENSE. Review whether you want that license to apply to repository files; particularly avoid copying a repository-licensed Kotlin file into an app with incompatible licensing without deciding its license first.
 
-**Live TXT URL after upload:** `https://raw.githubusercontent.com/pi314159userinf-dev/QALQON-Allowlist/main/allowlist.txt`
+**Live TXT URL after upload:** `https://raw.githubusercontent.com/aex-3-14/QALQON-Allowlist/main/allowlist.txt`
 
 ---
 
@@ -23,9 +23,9 @@ This repository is a remote source for QALQON's **browser strict-mode** DNS allo
 
 ## Raw URL to add to Android code
 
-`https://raw.githubusercontent.com/pi314159userinf-dev/QALQON-Allowlist/main/allowlist.txt`
+`https://raw.githubusercontent.com/aex-3-14/QALQON-Allowlist/main/allowlist.txt`
 
-This URL is already configured for the public repository `pi314159userinf-dev/QALQON-Allowlist`. No GitHub token should be embedded in the APK.
+This URL is already configured for the public repository `aex-3-14/QALQON-Allowlist`. No GitHub token should be embedded in the APK.
 
 ## Initial contents
 
