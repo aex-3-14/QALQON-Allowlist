@@ -628,3 +628,12 @@ merriam-webster.com
 mail.ru
 uzmovi.net
 evolution-x.org
+habr.com
+rozetked.me
+grok.com
+ixbt.com
+nanoreview.net
+kimovil.com
+technical.city
+monkeytype.com
+play.type.racer.com
