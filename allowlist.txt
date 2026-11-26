@@ -4,6 +4,7 @@ id.egov.uz
 egov.uz
 president.uz
 lex.uz
+my.hemis.uz
 hemis.uz
 my.uzbmb.uz
 parliament.gov.uz
